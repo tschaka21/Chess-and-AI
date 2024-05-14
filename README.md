@@ -2,10 +2,14 @@
 This is my final project from my advanced training in data and process analysis.
 
 
-Overview
+# Overview
+
+
 This project is the result of my advanced training in data and process analysis. It is a chess game programmed based on a tutorial, featuring sound effects and various board colors. The game includes all standard chess rules and is enhanced with a model that recognizes the board position and translates it into FEN (Forsyth-Edwards Notation) using PyTorch. From the FEN notation, the best move can be determined.
 
-Features
+# Features
+
+
 Complete Chess Game: Implements all standard chess rules.
 Sound Effects: Enjoy an immersive experience with sound effects for moves, captures, and check/checkmate notifications.
 Customizable Board Colors: Choose from a variety of board color themes to personalize your game.
